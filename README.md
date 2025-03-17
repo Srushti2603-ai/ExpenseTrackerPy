@@ -5,10 +5,15 @@ This is a simple expense tracking program written in Python. It allows users to 
 📝 Add Expenses (Name, Category, Amount)
 
 
-
 📂 Save Expenses to a CSV file
+
+
 📊 Summarize Expenses by category
+
+
 💡 Calculate Remaining Budget
+
+
 ⚙️ How It Works
 1️⃣ The user enters an expense name, amount, and selects a category.
 2️⃣ The expense is saved in a file (expenses.csv).
